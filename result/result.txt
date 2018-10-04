@@ -1,0 +1,7 @@
+ WorldThe initial point number: 20
+Layer [1] has ROI number [18].
+Layer [2] has ROI number [18].
+Layer [3] has ROI number [12].
+Layer [4] has ROI number [9].
+
+The relationship between adjacent layer of ROIs can be retrieved from the CascadeSyncResult object!
